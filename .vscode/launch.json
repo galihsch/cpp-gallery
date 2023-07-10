@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+        "type": "gdb",
+        "request": "launch",
+        "name": "Launch Program",
+        "target": "./bin/executable",
+        "cwd": "${workspaceRoot}",
+        "valuesFormatting": "parseText"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/workspace/pemrograman-dasar/for_uas",
+      "program": "/workspace/pemrograman-dasar/for_uas/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
