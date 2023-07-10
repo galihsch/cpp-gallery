@@ -2,4 +2,4 @@
 
 ### 🔰 FlowChart Ganjil Genap
 
-<p align="center"><img src="https://raw.githubusercontent.com/galihsch/cpp-gallery/main/bilangan/ganjilGenapPrima/flow_ganjilGenap.png" /></p>
+<p align="center"><img width="50%" src="https://raw.githubusercontent.com/galihsch/cpp-gallery/main/bilangan/ganjilGenapPrima/flow_ganjilGenap.png" /></p>
