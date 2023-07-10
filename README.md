@@ -3,7 +3,7 @@
 ___
 
 ### 🔰 Main Menu
-- [Bilangan Ganjil, Genap, Prima](https://github.com/galihsch/cpp-gallery/blob/main/bilangan/ganjilGenapPrima/README.md)
+- [Bilangan Ganjil, Genap, Prima](https://github.com/galihsch/cpp-gallery/blob/main/src/ganjilGenapPrima/README.md)
 - [Kabisat](https://github.com/galihsch/cpp-gallery/blob/main/for_uas/kabisat.cpp)
 
 ___
