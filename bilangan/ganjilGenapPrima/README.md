@@ -11,5 +11,29 @@ ___
 ``` pseudocode
 DECLARE
 INT angka
-
+START
+INPUT angka
+IF angka mod 2 = 0 THEN
+    OUTPUT "GENAP"
+ELSE
+    OUTPUT "GANJIL"
+END
 ```
+
+### 🔰 Algoritma
+
+``` Algoritma
+1. Mulai
+2. Masukan angka
+3. Operasikan angka dengan modulus 2
+4. Jika hasilnya 0 maka tampilkan "GENAP"
+5. Jika tidak, tampilkan "GANJIL"
+6. Selesai
+```
+
+___
+
+### 🔰 Flowchart Bilangan Prima
+
+<img width="300px" src="https://raw.githubusercontent.com/galihsch/cpp-gallery/main/bilangan/ganjilGenapPrima/flow_prima.png" />
+
