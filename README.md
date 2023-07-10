@@ -4,7 +4,7 @@ ___
 
 ### 🔰 Main Menu
 - [Bilangan Ganjil, Genap, Prima](https://github.com/galihsch/cpp-gallery/blob/main/src/ganjilGenapPrima/README.md)
-- [Kabisat](https://github.com/galihsch/cpp-gallery/blob/main/for_uas/kabisat.cpp)
+- [Kabisat](https://github.com/galihsch/cpp-gallery/blob/main/src/kabisat/README.md)
 
 ___
 

@@ -5,7 +5,7 @@
 
 ### 🔰 Flowchart
 
-
+<img src="https://github.com/galihsch/cpp-gallery/blob/main/src/kabisat/flow_kabisat.png?raw=true" />
 
 ### 🔰 Pseudocode
 
