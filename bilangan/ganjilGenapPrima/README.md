@@ -6,7 +6,7 @@ ___
 
 <img width="300px" src="https://raw.githubusercontent.com/galihsch/cpp-gallery/main/bilangan/ganjilGenapPrima/flow_ganjilGenap.png" />
 
-### 🔰 Pseudocode
+### 🔰 Pseudocode Ganjil Genap
 
 ``` pseudocode
 DECLARE
@@ -20,7 +20,7 @@ ELSE
 END
 ```
 
-### 🔰 Algoritma
+### 🔰 Algoritma Ganjil Genap
 
 ``` Algoritma
 1. Mulai
@@ -37,3 +37,4 @@ ___
 
 <a href="https://github.com/galihsch/cpp-gallery/blob/main/bilangan/ganjilGenapPrima/flow_prima.png"><img width="300px" src="https://raw.githubusercontent.com/galihsch/cpp-gallery/main/bilangan/ganjilGenapPrima/flow_prima.png" /><a>
 
+### 🔰 Pseudocode Prima
