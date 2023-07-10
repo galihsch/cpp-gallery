@@ -5,3 +5,11 @@ ___
 ### 🔰 FlowChart Ganjil Genap
 
 <img width="300px" src="https://raw.githubusercontent.com/galihsch/cpp-gallery/main/bilangan/ganjilGenapPrima/flow_ganjilGenap.png" />
+
+### 🔰 Pseudocode
+
+``` pseudocode
+DECLARE
+INT angka
+
+```
