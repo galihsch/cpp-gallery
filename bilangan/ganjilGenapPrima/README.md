@@ -35,5 +35,5 @@ ___
 
 ### 🔰 Flowchart Bilangan Prima
 
-<img width="300px" src="https://raw.githubusercontent.com/galihsch/cpp-gallery/main/bilangan/ganjilGenapPrima/flow_prima.png" />
+<a href="https://github.com/galihsch/cpp-gallery/blob/main/bilangan/ganjilGenapPrima/flow_prima.png"><img width="300px" src="https://raw.githubusercontent.com/galihsch/cpp-gallery/main/bilangan/ganjilGenapPrima/flow_prima.png" /><a>
 
