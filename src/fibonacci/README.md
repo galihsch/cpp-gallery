@@ -53,4 +53,4 @@ END
 
 ## 🔰 Flowchart
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVM2OqCJo=/?moveToViewport=-4818,-4050,1147,2076&embedId=399907835626" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<a href="flow_fibonacci.jpg"> <img src="flow_fibonacci.jpg" width="300px" /></a>
