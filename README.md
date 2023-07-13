@@ -3,10 +3,10 @@
 ___
 
 ### 🔰 Main Menu
+
 - [Bilangan Ganjil, Genap, Prima](https://github.com/galihsch/cpp-gallery/blob/main/src/ganjilGenapPrima/README.md)
 - [Kabisat](https://github.com/galihsch/cpp-gallery/blob/main/src/kabisat/README.md)
 
 ___
-
 
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Galih Putro Aji

@@ -3,24 +3,28 @@
 
 using namespace std;
 
-void clrscr() {
-  cout << "\033[2J\033[0;0H";
+void clrscr()
+{
+    cout << "\033[2J\033[0;0H";
 }
 
-void menuHeader(string name){
+void menuHeader(string name)
+{
     cout << "Luas dan Keliling " << name << endl;
     cout << "===================================" << endl;
 }
 
-void lanjut(){
-      cout << "\n\n";
-      cout << "Tekan enter untuk melanjutkan...";
-      cin.ignore();
-      getchar();
+void lanjut()
+{
+    cout << "\n\n";
+    cout << "Tekan enter untuk melanjutkan...";
+    cin.ignore();
+    getchar();
 }
 
 // Menghitung luas dan keliling persegi panjang
-void persegiPanjang() {
+void persegiPanjang()
+{
     float panjang, lebar;
     clrscr();
     menuHeader("Persegi Panjang");
@@ -38,7 +42,8 @@ void persegiPanjang() {
 }
 
 // Menghitung luas dan keliling lingkaran
-void lingkaran() {
+void lingkaran()
+{
     float jariJari;
     clrscr();
     menuHeader("Lingkaran");
@@ -54,7 +59,8 @@ void lingkaran() {
 }
 
 // Menghitung luas dan keliling trapesium
-void trapesium() {
+void trapesium()
+{
     float sisiAB, sisiBC, tinggi;
     clrscr();
     menuHeader("Trapesium");
@@ -74,7 +80,8 @@ void trapesium() {
 }
 
 // Menghitung luas dan keliling balok
-void balok() {
+void balok()
+{
     float panjang, lebar, tinggi;
     clrscr();
     menuHeader("Balok");
@@ -94,7 +101,8 @@ void balok() {
 }
 
 // Menghitung luas dan keliling kubus
-void kubus() {
+void kubus()
+{
     float sisi;
     clrscr();
     menuHeader("Kubus");
@@ -110,7 +118,8 @@ void kubus() {
 }
 
 // Menghitung luas dan keliling tabung
-void tabung() {
+void tabung()
+{
     float jariJari, tinggi;
     clrscr();
     menuHeader("Tabung");
@@ -128,7 +137,8 @@ void tabung() {
 }
 
 // Menghitung luas dan keliling segitiga
-void segitiga() {
+void segitiga()
+{
     float alas, tinggi, sisiA, sisiB, sisiC;
     clrscr();
     menuHeader("Segitiga");
@@ -152,7 +162,8 @@ void segitiga() {
 }
 
 // Menghitung luas dan keliling belah ketupat
-void belahKetupat() {
+void belahKetupat()
+{
     float diagonal1, diagonal2, sisi;
     clrscr();
     menuHeader("Belah Ketupat");
@@ -172,7 +183,8 @@ void belahKetupat() {
 }
 
 // Menghitung luas dan keliling jajar genjang
-void jajarGenjang() {
+void jajarGenjang()
+{
     float alas, tinggi, sisiMiring;
     clrscr();
     menuHeader("Jajar Genjang");
@@ -191,25 +203,28 @@ void jajarGenjang() {
     lanjut();
 }
 
-int main() {
+int main()
+{
     int pilihan;
-    do{
-    cout << "Kalkulator Luas dan Keliling" << endl;
-    cout << "====================================" << endl;
-    cout << "1. Persegi Panjang" << endl;
-    cout << "2. Lingkaran" << endl;
-    cout << "3. Trapesium" << endl;
-    cout << "4. Balok" << endl;
-    cout << "5. Kubus" << endl;
-    cout << "6. Tabung" << endl;
-    cout << "7. Segitiga" << endl;
-    cout << "8. Belah Ketupat" << endl;
-    cout << "9. Jajar Genjang" << endl;
-    cout << "0. Keluar" << endl;
-    cout << "Pilih menu (0-9): ";
-    cin >> pilihan;
+    do
+    {
+        cout << "Kalkulator Luas dan Keliling" << endl;
+        cout << "====================================" << endl;
+        cout << "1. Persegi Panjang" << endl;
+        cout << "2. Lingkaran" << endl;
+        cout << "3. Trapesium" << endl;
+        cout << "4. Balok" << endl;
+        cout << "5. Kubus" << endl;
+        cout << "6. Tabung" << endl;
+        cout << "7. Segitiga" << endl;
+        cout << "8. Belah Ketupat" << endl;
+        cout << "9. Jajar Genjang" << endl;
+        cout << "0. Keluar" << endl;
+        cout << "Pilih menu (0-9): ";
+        cin >> pilihan;
 
-    switch (pilihan) {
+        switch (pilihan)
+        {
         case 1:
             persegiPanjang();
             break;
@@ -238,15 +253,15 @@ int main() {
             jajarGenjang();
             break;
         case 0:
-            cout << "Keluar" << endl;
+            cout << "Terima kasih..." << endl;
             break;
         default:
             clrscr();
             cout << "Pilihan tidak valid!" << endl;
             lanjut();
             break;
-    }
-    } while ( pilihan != 0);
+        }
+    } while (pilihan != 0);
 
     return 0;
 }
