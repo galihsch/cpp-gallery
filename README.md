@@ -1,8 +1,6 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&center=true&vCenter=true&width=500&lines=Basic+C%2B%2B+Collection;Made+by+Galih+Putro+Aji" alt="Typing SVG" /></a></p>
+# <img src="images/main_title.svg" width="100%" />
 
-___
-
-### 🔰 Main Menu
+## 🔰 Main Menu
 
 1. [Bilangan Ganjil, Genap, Prima](src/bilangan/README.md)
 2. [Kabisat](src/kabisat/README.md)
@@ -22,4 +20,4 @@ ___
 
 ___
 
-# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Galih Putro Aji
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> Galih Putro Aji
