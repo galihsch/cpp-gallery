@@ -2,11 +2,11 @@
 
 ___
 
-### 🔰 Source Code:
+### 🔰 Source Code
 
-1. [Ganjil](https://github.com/galihsch/cpp-gallery/blob/main/src/ganjilGenapPrima/ganjil.cpp)
-2. [Genap](https://github.com/galihsch/cpp-gallery/blob/main/src/ganjilGenapPrima/genap.cpp)
-3. [Prima](https://github.com/galihsch/cpp-gallery/blob/main/src/ganjilGenapPrima/prima.cpp)
+1. [Ganjil](https://github.com/galihsch/cpp-gallery/blob/main/src/bilangan/ganjil.cpp)
+2. [Genap](https://github.com/galihsch/cpp-gallery/blob/main/src/bilangan/genap.cpp)
+3. [Prima](https://github.com/galihsch/cpp-gallery/blob/main/src/bilangan/prima.cpp)
 
 ### 🔰 FlowChart Ganjil Genap
 
