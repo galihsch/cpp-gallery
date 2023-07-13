@@ -17,7 +17,7 @@ ___
 10. Luas Lingkaran & Luas Segitiga              &nbsp;⚠️ WIP
 11. Berat Badan Ideal                           &nbsp;⚠️ WIP
 12. Luas Belah Ketupat                          &nbsp;⚠️ WIP
-13. Bilangan Fibonacci                          &nbsp;⚠️ WIP
+13. [Bilangan Fibonacci](src/fibonacci/README.md)
 14. Luas & Keliling Jajar Genjang               &nbsp;⚠️ WIP
 
 ___

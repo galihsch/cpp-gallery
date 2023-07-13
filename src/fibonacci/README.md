@@ -1,5 +1,9 @@
 <a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=200&center=true&vCenter=true&width=500&lines=Program+C%2B%2B;Deret+Fibonacci" alt="Typing SVG" /></a>
 
+## 🔰 Source Code
+
+- [C++ Deret Fibonacci](fibonacci.cpp)
+
 ## 🔰 Pseudocode
 
 ```
@@ -38,6 +42,7 @@ END
 
 ## 🔰 Algoritma
 
+```
 1. Mulai program
 2. Inisialisasi variabel t1 dengan nilai 0 dan t2 dengan nilai 1
 3. Minta input dari pengguna berupa nilai n, yaitu jumlah deret
@@ -50,6 +55,7 @@ END
 10. Atur nilai t2 sama dengan nilai angka berikutnya
 11. Tampilkan nilai angka berikutnya
 12. Selesai
+```
 
 ## 🔰 Flowchart
 
