@@ -4,8 +4,21 @@ ___
 
 ### 🔰 Main Menu
 
-- [Bilangan Ganjil, Genap, Prima](https://github.com/galihsch/cpp-gallery/blob/main/src/bilangan/README.md)
-- [Kabisat](https://github.com/galihsch/cpp-gallery/blob/main/src/kabisat/README.md)
+1. [Bilangan Ganjil, Genap, Prima](https://github.com/galihsch/cpp-gallery/blob/main/src/bilangan/README.md)
+1. [Kabisat](https://github.com/galihsch/cpp-gallery/blob/main/src/kabisat/README.md)
+2. Keliling Persegi Panjang                     &nbsp;⚠️ WIP
+3. Kalkulator sederhana                         &nbsp;⚠️ WIP
+4. Luas & Keliling Lingkaran                    &nbsp;⚠️ WIP
+5. Luas Trapesium                               &nbsp;⚠️ WIP
+6. Luas & Volume Tabung                         &nbsp;⚠️ WIP
+7. Luas Balok                                   &nbsp;⚠️ WIP
+8. Volume Balok dan Kubus                       &nbsp;⚠️ WIP
+9. Input Biodata Mahasiswa                      &nbsp;⚠️ WIP
+10. Luas Lingkaran & Luas Segitiga              &nbsp;⚠️ WIP
+11. Berat Badan Ideal                           &nbsp;⚠️ WIP
+12. Luas Belah Ketupat                          &nbsp;⚠️ WIP
+13. Bilangan Fibonacci                          &nbsp;⚠️ WIP
+14. Luas & Keliling Jajar Genjang               &nbsp;⚠️ WIP
 
 ___
 
