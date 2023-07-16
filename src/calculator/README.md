@@ -6,7 +6,7 @@
 
 ## 🔰 Flowchart
 
-<img src="flow_calculator.png" width="500px"/>
+<a href="flow_calculator.png"><img src="flow_calculator.png" height="500px"/></a>
 
 ## 🔰 Algoritma
 
