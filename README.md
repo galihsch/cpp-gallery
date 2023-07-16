@@ -5,18 +5,18 @@
 1. [Bilangan Ganjil, Genap, Prima](src/bilangan/README.md)
 2. [Kabisat](src/kabisat/README.md)
 3. [Keliling Persegi Panjang](src/lkv/persegi_panjang/README_kel.md)
-4. Kalkulator sederhana                         &nbsp;⚠️ WIP
-5. Luas & Keliling Lingkaran                    &nbsp;⚠️ WIP
-6. Luas Trapesium                               &nbsp;⚠️ WIP
-7. Luas & Volume Tabung                         &nbsp;⚠️ WIP
-8. Luas Balok                                   &nbsp;⚠️ WIP
-9. Volume Balok dan Kubus                       &nbsp;⚠️ WIP
-10. Input Biodata Mahasiswa                      &nbsp;⚠️ WIP
-11. Luas Lingkaran & Luas Segitiga              &nbsp;⚠️ WIP
-12. Berat Badan Ideal                           &nbsp;⚠️ WIP
-13. Luas Belah Ketupat                          &nbsp;⚠️ WIP
+4. [Kalkulator sederhana](src\calculator\README.md)
+5. [Luas & Keliling Lingkaran](src/bangun_ruang/README_lingkaran.md)
+6. [Luas Trapesium](src/bangun_ruang/README_trapesium.md)
+7. [Luas & Volume Tabung]()
+8. [Luas Balok]()
+9. [Volume Balok dan Kubus]()
+10. [Input Biodata Mahasiswa]()
+11. [Luas Lingkaran & Luas Segitiga]()
+12. [Berat Badan Ideal]()
+13. [Luas Belah Ketupat]()
 14. [Bilangan Fibonacci](src/fibonacci/README.md)
-15. Luas & Keliling Jajar Genjang               &nbsp;⚠️ WIP
+15. [Luas & Keliling Jajar Genjang]()
 
 ___
 
