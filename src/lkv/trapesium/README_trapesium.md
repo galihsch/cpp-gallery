@@ -2,7 +2,7 @@
 
 ## 🔰 Source Code
 
-- [Luas Trapesium](../luas_keliling.cpp)
+- [Luas Trapesium](../luas_keliling.cpp#L62)
 
 ## 🔰 Flowchart
 
