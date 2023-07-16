@@ -9,14 +9,20 @@
 5. [Luas & Keliling Lingkaran](src/bangun_ruang/README_lingkaran.md)
 6. [Luas Trapesium](src/lkv/trapesium/README_trapesium.md)
 7. [Luas & Volume Tabung](src/lkv/tabung/README.md)
-8. [Luas Balok](src/lkv/balok/README.md)
-9. [Volume Balok dan Kubus]()
-10. [Input Biodata Mahasiswa]()
-11. [Luas Lingkaran & Luas Segitiga]()
-12. [Berat Badan Ideal]()
-13. [Luas Belah Ketupat]()
-14. [Bilangan Fibonacci](src/fibonacci/README.md)
-15. [Luas & Keliling Jajar Genjang]()
+8. [Luas & Volume Balok](src/lkv/balok/README.md)
+9. [Luas & Volume Kubus](src/lkv/kubus/README.md)
+10. [Luas & Keliling Segitiga](src/lkv/segitiga/README.md)
+11. [Luas & Keliling Jajar Genjang]()
+12. [Luas Belah Ketupat]()
+13. [Input Biodata Mahasiswa]()
+14. [Berat Badan Ideal]()
+15. [Bilangan Fibonacci](src/fibonacci/README.md)
+
+___
+
+## 🔰 Others
+
+1. [Presentasi - Break & Continue](https://www.canva.com/design/DAFoy-rVzUQ/AYADLjtAF9s2sbgG1Ei3qA/view?utm_content=DAFoy-rVzUQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ___
 
