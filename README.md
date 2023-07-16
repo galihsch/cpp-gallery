@@ -15,7 +15,7 @@
 11. [Luas & Keliling Jajar Genjang](src/lkv/jajar_genjang/README.md)
 12. [Luas & Keliling Belah Ketupat](src/lkv/belah_ketupat/README.md)
 13. [Biodata Mahasiswa](src/biodata_mahasiswa/README.md)
-14. [Berat Badan Ideal]()
+14. [Berat Badan Ideal](src/bb_ideal/README.md)
 15. [Bilangan Fibonacci](src/fibonacci/README.md)
 
 ___

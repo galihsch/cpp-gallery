@@ -2,7 +2,7 @@
 
 ## 🔰 Source Code
 
-- [Luas & Volume Balok](../luas_keliling.cpp#L104)
+- [Luas & Volume Kubus](../luas_keliling.cpp#L104)
 
 ## 🔰 Flowchart
 
