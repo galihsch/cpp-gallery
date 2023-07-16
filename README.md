@@ -12,9 +12,9 @@
 8. [Luas & Volume Balok](src/lkv/balok/README.md)
 9. [Luas & Volume Kubus](src/lkv/kubus/README.md)
 10. [Luas & Keliling Segitiga](src/lkv/segitiga/README.md)
-11. [Luas & Keliling Jajar Genjang]()
-12. [Luas Belah Ketupat]()
-13. [Input Biodata Mahasiswa]()
+11. [Luas & Keliling Jajar Genjang](src/lkv/jajar_genjang/README.md)
+12. [Luas & Keliling Belah Ketupat](src/lkv/belah_ketupat/README.md)
+13. [Biodata Mahasiswa](src/biodata_mahasiswa/README.md)
 14. [Berat Badan Ideal]()
 15. [Bilangan Fibonacci](src/fibonacci/README.md)
 
