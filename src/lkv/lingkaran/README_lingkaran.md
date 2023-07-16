@@ -3,7 +3,7 @@
 
 ## 🔰 Source Code
 
-- [Luas & Keliling](luas_keliling.cpp)
+- [Luas & Keliling Lingkaran](../luas_keliling.cpp)
   
 ## 🔰 Flowchart
 

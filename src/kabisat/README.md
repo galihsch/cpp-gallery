@@ -1,6 +1,7 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&center=true&vCenter=true&width=500&lines=Tahun+Kabisat;C%2B%2B+Code" alt="Typing SVG" /></a></p>
+# <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&center=true&vCenter=true&width=500&lines=Tahun+Kabisat;C%2B%2B+Code" />
 
-### 🔰 Source Code:
+### 🔰 Source Code
+
 1. [Tahun Kabisat](https://github.com/galihsch/cpp-gallery/blob/main/src/kabisat/kabisat.cpp)
 
 ### 🔰 Flowchart

@@ -7,7 +7,7 @@
 3. [Keliling Persegi Panjang](src/lkv/persegi_panjang/README_kel.md)
 4. [Kalkulator sederhana](src\calculator\README.md)
 5. [Luas & Keliling Lingkaran](src/bangun_ruang/README_lingkaran.md)
-6. [Luas Trapesium](src/bangun_ruang/README_trapesium.md)
+6. [Luas Trapesium](src/lkv/trapesium/README_trapesium.md)
 7. [Luas & Volume Tabung]()
 8. [Luas Balok]()
 9. [Volume Balok dan Kubus]()
