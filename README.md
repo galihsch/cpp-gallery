@@ -6,7 +6,7 @@
 2. [Kabisat](src/kabisat/README.md)
 3. [Keliling Persegi Panjang](src/lkv/persegi_panjang/README_kel.md)
 4. [Kalkulator Sederhana](src/calculator/README.md)
-5. [Luas & Keliling Lingkaran](src/bangun_ruang/README_lingkaran.md)
+5. [Luas & Keliling Lingkaran](src/lkv/lingkaran/README_lingkaran.md)
 6. [Luas Trapesium](src/lkv/trapesium/README_trapesium.md)
 7. [Luas & Volume Tabung](src/lkv/tabung/README.md)
 8. [Luas & Volume Balok](src/lkv/balok/README.md)
