@@ -23,6 +23,13 @@ ___
 ## 🔰 Others
 
 1. [Presentasi - Break & Continue](https://www.canva.com/design/DAFoy-rVzUQ/AYADLjtAF9s2sbgG1Ei3qA/view?utm_content=DAFoy-rVzUQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+2. <a href="#">Certificate</a>
+   - [C++ Introduction (Sololearn)](cert/cpp-beginner.pdf)
+   - [C++ Intermediate (Sololearn)](cert/cpp-intermediate.pdf)
+   - [SQL Introduction (Sololearn)](cert/sololearn-sql-beginner.pdf)
+   - [SQL Beginner (DQLAB)](cert/dqlab-SQL-Beginner.pdf)
+   - [SQL Intermediate (DQLAB)](cert/dqlab-SQL-Intermediate.pdf)
+   - [Mysql Intermediate (DQLAB)](cert/Mysql-Intermediate.pdf)
 
 ___
 
