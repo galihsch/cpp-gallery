@@ -1,24 +1,28 @@
 # <img src="images/main_title.svg" width="100%" />
 
-## 🔰 Main Menu
+## 🔰 Collection
 
-1. [Bilangan Ganjil, Genap, Prima](src/bilangan/README.md)
-2. [Kabisat](src/kabisat/README.md)
-3. [Keliling Persegi Panjang](src/lkv/persegi_panjang/README_kel.md)
-4. [Kalkulator Sederhana](src/calculator/README.md)
-5. [Luas & Keliling Lingkaran](src/lkv/lingkaran/README_lingkaran.md)
-6. [Luas Trapesium](src/lkv/trapesium/README_trapesium.md)
-7. [Luas & Volume Tabung](src/lkv/tabung/README.md)
-8. [Luas & Volume Balok](src/lkv/balok/README.md)
-9. [Luas & Volume Kubus](src/lkv/kubus/README.md)
-10. [Luas & Keliling Segitiga](src/lkv/segitiga/README.md)
-11. [Luas & Keliling Jajar Genjang](src/lkv/jajar_genjang/README.md)
-12. [Luas & Keliling Belah Ketupat](src/lkv/belah_ketupat/README.md)
-13. [Biodata Mahasiswa](src/biodata_mahasiswa/README.md)
-14. [Berat Badan Ideal](src/bb_ideal/README.md)
-15. [Bilangan Fibonacci](src/fibonacci/README.md)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/galihsch/cpp-gallery/pd/total?style=flat&logo=github&label=Download&color=blue&link=https%3A%2F%2Fgithub.com%2Fgalihsch%2Fcpp-gallery%2Farchive%2Frefs%2Ftags%2Fpd.zip)
 
-___
+| No. | Nama                          | Link                                          |
+| --- | ----------------------------- | :-------------------------------------------: |
+| 1   | Bilangan Ganjil, Genap, Prima | [Buka](src/bilangan/README.md)                |
+| 2   | Kabisat                       | [Buka](src/kabisat/README.md)                 |
+| 3   | Keliling Persegi Panjang      | [Buka](src/lkv/persegi_panjang/README_kel.md) |
+| 4   | Kalkulator Sederhana          | [Buka](src/calculator/README.md)              |
+| 5   | Luas & Keliling Lingkaran     | [Buka](src/lkv/lingkaran/README_lingkaran.md) |
+| 6   | Luas Trapesium                | [Buka](src/lkv/trapesium/README_trapesium.md) |
+| 7   | Luas & Volume Tabung          | [Buka](src/lkv/tabung/README.md)              |
+| 8   | Luas & Volume Balok           | [Buka](src/lkv/balok/README.md)               |
+| 9   | Luas & Volume Kubus           | [Buka](src/lkv/kubus/README.md)               |
+| 10  | Luas & Keliling Segitiga      | [Buka](src/lkv/segitiga/README.md)            |
+| 11  | Luas & Keliling Jajar Genjang | [Buka](src/lkv/jajar_genjang/README.md)       |
+| 12  | Luas & Keliling Belah Ketupat | [Buka](src/lkv/belah_ketupat/README.md)       |
+| 13  | Biodata Mahasiswa             | [Buka](src/biodata_mahasiswa/README.md)       |
+| 14  | Berat Badan Ideal             | [Buka](src/bb_ideal/README.md)                |
+| 15  | Bilangan Fibonacci            | [Buka](src/fibonacci/README.md)               |
+
+---
 
 ## 🔰 Others
 
@@ -30,9 +34,9 @@ ___
    - [SQL Beginner (DQLAB)](cert/dqlab-SQL-Beginner.pdf)
    - [SQL Intermediate (DQLAB)](cert/dqlab-SQL-Intermediate.pdf)
    - [Mysql Intermediate (DQLAB)](cert/Mysql-Intermediate.pdf)
+  
+---
 
-___
-
-| Nama | NPM |
-| :---: | :---: |
+|      Nama       |    NPM     |
+| :-------------: | :--------: |
 | Galih Putro Aji | 1101221174 |
