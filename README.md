@@ -2,7 +2,7 @@
 
 ## 🔰 Collection
 
-![GitHub release (by tag)](https://img.shields.io/github/downloads/galihsch/cpp-gallery/pd/total?style=flat&logo=github&label=Download&color=blue&link=https%3A%2F%2Fgithub.com%2Fgalihsch%2Fcpp-gallery%2Farchive%2Frefs%2Ftags%2Fpd.zip)
+<a href="https://github.com/galihsch/cpp-gallery/archive/refs/tags/pd.zip"></a><img src="https://img.shields.io/github/downloads/galihsch/cpp-gallery/pd/total?style=flat&logo=github&label=Download&color=blue" /></a>
 
 | No. | Nama                          | Link                                          |
 | --- | ----------------------------- | :-------------------------------------------: |
